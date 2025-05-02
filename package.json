@@ -1,0 +1,19 @@
+{
+  "name": "cyberpunk-factory-monitor",
+  "version": "1.0.0",
+  "description": "A retro-futuristic cyberpunk factory monitoring system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "cli-table3": "^0.6.3",
+    "gradient-string": "^2.0.2",
+    "node-fetch": "^2.6.7",
+    "ora": "^5.4.1"
+  }
+} 
